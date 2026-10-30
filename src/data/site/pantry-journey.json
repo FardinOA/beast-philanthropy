@@ -1,0 +1,107 @@
+[
+ {
+  "copy": [
+   {
+    "text": "We took the first crucial step",
+    "bold": true
+   },
+   {
+    "text": " by establishing a warehouse-turned-food pantry and kickstarting our efforts to combat hunger.",
+    "bold": false
+   }
+  ],
+  "imageUrl": "https://cdn.sanity.io/images/5l44tcs4/production/c05de1d1435c5703fd17883077c2ed6802f58521-375x222.jpg",
+  "alt": "Volunteers sorting the first pallets of food",
+  "videoUrl": "https://www.youtube.com/watch?v=f-empfLWbIk"
+ },
+ {
+  "copy": [
+   {
+    "text": "We began securing donations",
+    "bold": true
+   },
+   {
+    "text": ", acquiring food supplies, procuring trucks for transportation, and organizing mobile distributions.",
+    "bold": false
+   }
+  ],
+  "imageUrl": "https://cdn.sanity.io/images/5l44tcs4/production/1304d32e8ad667aaca72437dbfd706c3d69acd52-375x225.jpg",
+  "alt": "28,000 meals loaded for distribution",
+  "videoUrl": "https://www.youtube.com/watch?v=yEBK_Ayeiyc"
+ },
+ {
+  "copy": [
+   {
+    "text": "We prioritize accessibility",
+    "bold": true
+   },
+   {
+    "text": " by strategically conducting food drives at schools and other centrally located areas to ensure ease of access for community members most in need, and ",
+    "bold": false
+   },
+   {
+    "text": "expand our reach to encompass 21 communities",
+    "bold": true
+   },
+   {
+    "text": " across Eastern North Carolina in just our first 4 years of operation.",
+    "bold": false
+   }
+  ],
+  "imageUrl": "https://cdn.sanity.io/images/5l44tcs4/production/bc5ce370554ca4f300d095a67746d7c88c6c49e5-375x222.jpg",
+  "alt": "Feeding a city in need",
+  "videoUrl": "https://www.youtube.com/watch?v=5rkMxc7yGSk"
+ },
+ {
+  "copy": [
+   {
+    "text": "We partnered with Sharing Excess",
+    "bold": true
+   },
+   {
+    "text": " and successfully rescued millions of pounds of food, broadening distribution to populations in North Carolina, Pennsylvania, and New York.",
+    "bold": false
+   }
+  ],
+  "imageUrl": "https://cdn.sanity.io/images/5l44tcs4/production/9b636f8eee1f5f5ceb2f84b9155ba7d46fc12cd5-375x222.jpg",
+  "alt": "Rescued produce being sorted with Sharing Excess",
+  "videoUrl": "https://www.youtube.com/watch?v=ASYnuZMXpxM"
+ },
+ {
+  "copy": [
+   {
+    "text": "In one of our biggest projects yet, we helped Sharing Excess to acquire the Hunts Point Produce Market in New York City, ",
+    "bold": false
+   },
+   {
+    "text": "one of the largest produce markets in the world",
+    "bold": true
+   },
+   {
+    "text": ". As seen in our film “We Gave Away $30 Million In Free Food”.",
+    "bold": false
+   }
+  ],
+  "imageUrl": "https://cdn.sanity.io/images/5l44tcs4/production/20d003481a434abe5feb8f4c170b63db20f23b66-375x222.jpg",
+  "alt": "The card behind the $30 million food giveaway",
+  "videoUrl": "https://www.youtube.com/watch?v=idtvY5lN314"
+ },
+ {
+  "copy": [
+   {
+    "text": "Beast Pantry in Greenville",
+    "bold": true
+   },
+   {
+    "text": " serves 20+ communities across Eastern North Carolina through a hub-and-spoke distribution model that provides approximately ",
+    "bold": false
+   },
+   {
+    "text": "80,000 meals to families each month.",
+    "bold": true
+   }
+  ],
+  "alt": "Click This Video To Feed 1 Person",
+  "videoUrl": "https://www.youtube.com/watch?v=figrl0aOULs"
+ }
+]

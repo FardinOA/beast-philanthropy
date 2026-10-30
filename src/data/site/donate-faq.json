@@ -1,0 +1,30 @@
+[
+ {
+  "q": "Where does my donation go?",
+  "a": "Our goal is to ensure that your contribution achieves the greatest possible impact, in alignment with our mission and strategic priorities: clean water infrastructure, child labor intervention, food security programs, and more.  Donations are deployed through verified partner organizations with track records of field-level accountability."
+ },
+ {
+  "q": "Can I donate monthly?",
+  "a": "Yes. Beast Philanthropy accepts both one-time and monthly recurring donations. Monthly giving helps fund ongoing programs like Beast Pantry.",
+  "link": {
+   "href": "/donate",
+   "label": "Set up a monthly donation"
+  }
+ },
+ {
+  "q": "Are donations tax deductible?",
+  "a": "Yes. Beast Philanthropy is a registered 501(c)(3) nonprofit organization. Donations are tax deductible to the extent permitted by law."
+ },
+ {
+  "q": "Where can I find your financial reports?",
+  "a": "Beast Philanthropy's financial reports, including our annual report and IRS Form 990, are publicly available on our Impact & Reports page.",
+  "link": {
+   "href": "/financial-reports",
+   "label": "Go to Financial Reports"
+  }
+ },
+ {
+  "q": "Can I donate crypto or stock?",
+  "a": "Yes, select 'Crypto or Stock' in the donate box."
+ }
+]

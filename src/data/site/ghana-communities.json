@@ -1,0 +1,497 @@
+[
+ {
+  "name": "Community 1",
+  "meta": "Eastern Region, Ghana  ·  the hub  ·  Pop ~4,600  ·  Child labor: High",
+  "status": "Live & Ongoing",
+  "defaultOpen": true,
+  "group": {
+   "label": "Live & Ongoing",
+   "meta": "Began September 2025 · running now",
+   "blurb": "The first five communities. The year-one build, school, borehole, kitchen, latrines, handwashing, is largely in place, and savings groups, feeding, and monitoring are live."
+  },
+  "table": {
+   "byYearHeading": "BY YEAR ONE (September 2026)",
+   "rows": [
+    {
+     "area": "Education",
+     "dayOne": "School in disrepair",
+     "byYear": "School rebuilt; teacher housing",
+     "mark": "done"
+    },
+    {
+     "area": "Water & Sanitation",
+     "dayOne": "No working latrines; no clean water on site",
+     "byYear": "Borehole, latrines, handwashing stations",
+     "mark": "done"
+    },
+    {
+     "area": "Food Security",
+     "dayOne": "No kitchen, no feeding program",
+     "byYear": "Kitchen + daily meals; community farm",
+     "mark": "done"
+    },
+    {
+     "area": "Sustainable Income",
+     "dayOne": "No long-term cocoa partner, no Fairtrade Premiums",
+     "byYear": "Women's savings group + commercial farm + market",
+     "mark": "done",
+     "dayOneMuted": true
+    },
+    {
+     "area": "Monitoring (CLMRS)",
+     "dayOne": "None",
+     "byYear": "Live and independently verified",
+     "mark": "done"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Community 2",
+  "meta": "Eastern Region, Ghana  ·  Pop ~1,843  ·  Child labor: Very High",
+  "status": "Live & Ongoing",
+  "defaultOpen": false,
+  "table": {
+   "byYearHeading": "BY YEAR ONE (September 2026)",
+   "rows": [
+    {
+     "area": "Education",
+     "dayOne": "School in poor condition",
+     "byYear": "School rebuilt",
+     "mark": "done"
+    },
+    {
+     "area": "Water & Sanitation",
+     "dayOne": "No latrines; water collected from a stream",
+     "byYear": "Borehole, latrines, handwashing",
+     "mark": "done"
+    },
+    {
+     "area": "Food Security",
+     "dayOne": "No kitchen",
+     "byYear": "School kitchen + daily meals",
+     "mark": "done"
+    },
+    {
+     "area": "Sustainable Income",
+     "dayOne": "No long-term cocoa partner, no Fairtrade Premiums",
+     "byYear": "Savings group + poultry enterprise (eggs → feeding program)",
+     "mark": "done",
+     "dayOneMuted": true
+    },
+    {
+     "area": "Monitoring (CLMRS)",
+     "dayOne": "None",
+     "byYear": "Live and verified",
+     "mark": "done"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Community 3",
+  "meta": "Eastern Region, Ghana  ·  Pop ~1,060  ·  Child labor: High",
+  "status": "Live & Ongoing",
+  "defaultOpen": false,
+  "table": {
+   "byYearHeading": "BY YEAR ONE (September 2026)",
+   "rows": [
+    {
+     "area": "Education",
+     "dayOne": "School in disrepair",
+     "byYear": "School rebuilt; teacher housing",
+     "mark": "done"
+    },
+    {
+     "area": "Water & Sanitation",
+     "dayOne": "No latrines; water collected from a river",
+     "byYear": "Borehole, latrines, handwashing",
+     "mark": "done"
+    },
+    {
+     "area": "Food Security",
+     "dayOne": "Makeshift kitchen",
+     "byYear": "School kitchen + daily meals",
+     "mark": "done"
+    },
+    {
+     "area": "Sustainable Income",
+     "dayOne": "No long-term cocoa partner, no Fairtrade Premiums",
+     "byYear": "Women's savings group",
+     "mark": "done",
+     "dayOneMuted": true
+    },
+    {
+     "area": "Monitoring (CLMRS)",
+     "dayOne": "None",
+     "byYear": "Live and verified",
+     "mark": "done"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Community 4",
+  "meta": "Eastern Region, Ghana  ·  Pop ~1,650  ·  Child labor: High",
+  "status": "Live & Ongoing",
+  "defaultOpen": false,
+  "table": {
+   "byYearHeading": "BY YEAR ONE (September 2026)",
+   "rows": [
+    {
+     "area": "Education",
+     "dayOne": "School in poor condition",
+     "byYear": "School rebuilt",
+     "mark": "done"
+    },
+    {
+     "area": "Water & Sanitation",
+     "dayOne": "Failing latrines; community handpump",
+     "byYear": "Borehole, latrines, handwashing",
+     "mark": "done"
+    },
+    {
+     "area": "Food Security",
+     "dayOne": "No kitchen; irregular feeding",
+     "byYear": "School kitchen + daily meals",
+     "mark": "done"
+    },
+    {
+     "area": "Sustainable Income",
+     "dayOne": "No long-term cocoa partner, no Fairtrade Premiums",
+     "byYear": "Women's savings group",
+     "mark": "done",
+     "dayOneMuted": true
+    },
+    {
+     "area": "Monitoring (CLMRS)",
+     "dayOne": "None",
+     "byYear": "Live and verified",
+     "mark": "done"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Community 5",
+  "meta": "Eastern Region, Ghana  ·  Pop ~890  ·  Child labor: Extreme",
+  "status": "Live & Ongoing",
+  "defaultOpen": false,
+  "table": {
+   "byYearHeading": "BY YEAR ONE (September 2026)",
+   "rows": [
+    {
+     "area": "Education",
+     "dayOne": "School in disrepair",
+     "byYear": "School rebuilt",
+     "mark": "done"
+    },
+    {
+     "area": "Water & Sanitation",
+     "dayOne": "Failing latrines; water from a stream",
+     "byYear": "Borehole, latrines, handwashing",
+     "mark": "done"
+    },
+    {
+     "area": "Food Security",
+     "dayOne": "Makeshift kitchen; partial feeding",
+     "byYear": "School kitchen + daily meals",
+     "mark": "done"
+    },
+    {
+     "area": "Sustainable Income",
+     "dayOne": "No long-term cocoa partner, no Fairtrade Premiums",
+     "byYear": "Women's savings group",
+     "mark": "done",
+     "dayOneMuted": true
+    },
+    {
+     "area": "Monitoring (CLMRS)",
+     "dayOne": "None",
+     "byYear": "Live and verified",
+     "mark": "done"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Community 6",
+  "meta": "Eastern Region, Ghana  ·  Pop ~457  ·  Child labor: TBD",
+  "status": "Lighting Up",
+  "defaultOpen": false,
+  "group": {
+   "label": "Lighting Up",
+   "meta": "Ramping from September 2026 · into year two",
+   "blurb": "The next four communities. Just coming online, full rollout starts at the end of year one and runs into year two. Early school feeding is already live in two of them."
+  },
+  "table": {
+   "byYearHeading": "BY YEAR ONE (September 2027)",
+   "rows": [
+    {
+     "area": "Education",
+     "dayOne": "School in poor condition",
+     "byYear": "Renovation + new classrooms planned",
+     "mark": "planned"
+    },
+    {
+     "area": "Water & Sanitation",
+     "dayOne": "No latrines; water from a river",
+     "byYear": "Borehole, latrines, handwashing",
+     "mark": "planned"
+    },
+    {
+     "area": "Food Security",
+     "dayOne": "No kitchen",
+     "byYear": "Feeding live · kitchen planned",
+     "byYearParts": [
+      {
+       "text": "Feeding live",
+       "mark": "done"
+      },
+      {
+       "text": "kitchen planned",
+       "mark": "planned"
+      }
+     ]
+    },
+    {
+     "area": "Sustainable Income",
+     "dayOne": "No long-term cocoa partner, no Fairtrade Premiums",
+     "byYear": "Planned",
+     "mark": "planned",
+     "dayOneMuted": true
+    },
+    {
+     "area": "Monitoring (CLMRS)",
+     "dayOne": "None",
+     "byYear": "In monitoring system",
+     "mark": "planned"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Community 7",
+  "meta": "Eastern Region, Ghana  ·  Pop ~2,912  ·  Child labor: TBD",
+  "status": "Lighting Up",
+  "defaultOpen": false,
+  "table": {
+   "byYearHeading": "BY YEAR ONE (September 2027)",
+   "rows": [
+    {
+     "area": "Education",
+     "dayOne": "School in fair condition",
+     "byYear": "Supplies (no rebuild needed)",
+     "mark": "planned"
+    },
+    {
+     "area": "Water & Sanitation",
+     "dayOne": "Stream / community water point",
+     "byYear": "Clean water system",
+     "mark": "planned"
+    },
+    {
+     "area": "Food Security",
+     "dayOne": "No kitchen",
+     "byYear": "Feeding live · kitchen planned",
+     "byYearParts": [
+      {
+       "text": "Feeding live",
+       "mark": "done"
+      },
+      {
+       "text": "kitchen planned",
+       "mark": "planned"
+      }
+     ]
+    },
+    {
+     "area": "Sustainable Income",
+     "dayOne": "No long-term cocoa partner, no Fairtrade Premiums",
+     "byYear": "Planned",
+     "mark": "planned",
+     "dayOneMuted": true
+    },
+    {
+     "area": "Monitoring (CLMRS)",
+     "dayOne": "None",
+     "byYear": "In monitoring system",
+     "mark": "planned"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Community 8",
+  "meta": "Eastern Region, Ghana  ·  Pop ~1,830  ·  Child labor: TBD",
+  "status": "Lighting Up",
+  "defaultOpen": false,
+  "table": {
+   "byYearHeading": "BY YEAR ONE (September 2027)",
+   "rows": [
+    {
+     "area": "Education",
+     "dayOne": "School in poor condition",
+     "byYear": "Build + renovation planned",
+     "mark": "planned"
+    },
+    {
+     "area": "Water & Sanitation",
+     "dayOne": "Failing latrines; shared handpump",
+     "byYear": "Borehole, latrines, handwashing",
+     "mark": "planned"
+    },
+    {
+     "area": "Food Security",
+     "dayOne": "Makeshift kitchen; partial feeding",
+     "byYear": "Kitchen + full feeding",
+     "mark": "planned"
+    },
+    {
+     "area": "Sustainable Income",
+     "dayOne": "No long-term cocoa partner, no Fairtrade Premiums",
+     "byYear": "Planned",
+     "mark": "planned",
+     "dayOneMuted": true
+    },
+    {
+     "area": "Monitoring (CLMRS)",
+     "dayOne": "None",
+     "byYear": "Planned",
+     "mark": "planned"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Community 9",
+  "meta": "Eastern Region, Ghana  ·  Pop ~596  ·  Child labor: TBD",
+  "status": "Lighting Up",
+  "defaultOpen": false,
+  "table": {
+   "byYearHeading": "BY YEAR ONE (September 2027)",
+   "rows": [
+    {
+     "area": "Education",
+     "dayOne": "School needs renovation",
+     "byYear": "Renovation planned",
+     "mark": "planned"
+    },
+    {
+     "area": "Water & Sanitation",
+     "dayOne": "Failing latrines",
+     "byYear": "Latrines + handwashing",
+     "mark": "planned"
+    },
+    {
+     "area": "Food Security",
+     "dayOne": "Makeshift kitchen; partial feeding",
+     "byYear": "Kitchen + full feeding",
+     "mark": "planned"
+    },
+    {
+     "area": "Sustainable Income",
+     "dayOne": "No long-term cocoa partner, no Fairtrade Premiums",
+     "byYear": "Planned",
+     "mark": "planned",
+     "dayOneMuted": true
+    },
+    {
+     "area": "Monitoring (CLMRS)",
+     "dayOne": "None",
+     "byYear": "Planned",
+     "mark": "planned"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Community 10",
+  "meta": "Eastern Region, Ghana  ·  Pop ~500–800 (est.)  ·  Child labor: TBD",
+  "status": "On the Horizon",
+  "defaultOpen": false,
+  "group": {
+   "label": "On the Horizon",
+   "meta": "Timing to be confirmed · possibly from September 2027",
+   "blurb": "The final two communities are both without schools of their own, with children walking to neighboring villages. Baseline conditions are known; programs are not yet scheduled."
+  },
+  "table": {
+   "byYearHeading": "BY YEAR ONE (September 2028)",
+   "rows": [
+    {
+     "area": "Education",
+     "dayOne": "No school, children walk to a neighboring village",
+     "byYear": "Bicycles + school supplies",
+     "mark": "planned"
+    },
+    {
+     "area": "Water & Sanitation",
+     "dayOne": "Same",
+     "byYear": "Planned",
+     "mark": "planned"
+    },
+    {
+     "area": "Food Security",
+     "dayOne": "Same",
+     "byYear": "Planned",
+     "mark": "planned"
+    },
+    {
+     "area": "Sustainable Income",
+     "dayOne": "No long-term cocoa partner, no Fairtrade Premiums",
+     "byYear": "Seed kits for parents",
+     "mark": "planned",
+     "dayOneMuted": true
+    },
+    {
+     "area": "Monitoring (CLMRS)",
+     "dayOne": "None",
+     "byYear": "Planned",
+     "mark": "planned"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Community 11",
+  "meta": "Eastern Region, Ghana  ·  Pop ~583  ·  Child labor: TBD",
+  "status": "On the Horizon",
+  "defaultOpen": false,
+  "table": {
+   "byYearHeading": "BY YEAR ONE (September 2028)",
+   "rows": [
+    {
+     "area": "Education",
+     "dayOne": "No school, children walk to a neighboring village",
+     "byYear": "Bicycles + school supplies",
+     "mark": "planned"
+    },
+    {
+     "area": "Water & Sanitation",
+     "dayOne": "Same",
+     "byYear": "Planned",
+     "mark": "planned"
+    },
+    {
+     "area": "Food Security",
+     "dayOne": "Same",
+     "byYear": "Planned",
+     "mark": "planned"
+    },
+    {
+     "area": "Sustainable Income",
+     "dayOne": "No long-term cocoa partner, no Fairtrade Premiums",
+     "byYear": "Seed kits for parents",
+     "mark": "planned",
+     "dayOneMuted": true
+    },
+    {
+     "area": "Monitoring (CLMRS)",
+     "dayOne": "None",
+     "byYear": "Planned",
+     "mark": "planned"
+    }
+   ]
+  }
+ }
+]

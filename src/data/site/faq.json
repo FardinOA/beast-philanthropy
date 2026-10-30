@@ -1,0 +1,174 @@
+[
+ {
+  "label": "About Beast Philanthropy",
+  "items": [
+   {
+    "q": "What is Beast Philanthropy?",
+    "a": "Beast Philanthropy is a 501(c)(3) nonprofit organization on a mission to make kindness viral. Founded by Jimmy Donaldson (known globally as MrBeast). Beast Philanthropy leverages the world's largest YouTube platform to fund and execute real-world projects. Every video generates revenue that goes directly into verified, documented impact across 25+ countries and 5 continents."
+   },
+   {
+    "q": "Is Beast Philanthropy a real nonprofit?",
+    "a": "Yes. Beast Philanthropy is a registered 501(c)(3) nonprofit organization under the EIN 85-2067214. It is rated four stars by Charity Navigator, holds Platinum Transparency status from Candid, and is an environmental partner of 1% For The Planet. Financial reports are publicly available on our website.",
+    "link": {
+     "href": "/financial-reports",
+     "label": "See our financial reports"
+    }
+   },
+   {
+    "q": "What is Beast Philanthropy's 501(c)(3) status?",
+    "a": "Beast Philanthropy is a nonprofit, tax-exempt organization recognized under Internal Revenue Code section 501(c)(3), and donations made to Beast Philanthropy are fully tax deductible pursuant to IRC section 170(c). Beast Philanthropy may make contributions to other non-affiliate charitable organizations."
+   },
+   {
+    "q": "How is Beast Philanthropy related to MrBeast?",
+    "a": "Beast Philanthropy was founded by Jimmy Donaldson (MrBeast), the world's #1 YouTube creator. The Beast Philanthropy YouTube channel generates revenue through views, and that revenue funds real-world projects. MrBeast's platform is the engine that makes Beast Philanthropy's scale possible."
+   },
+   {
+    "q": "Where is Beast Philanthropy based?",
+    "a": "Beast Philanthropy is based in Greenville, North Carolina, the hometown of founder Jimmy Donaldson and the home of the Beast Pantry, Beast Philanthropy's flagship local food program."
+   }
+  ]
+ },
+ {
+  "label": "Donations & Financials",
+  "items": [
+   {
+    "q": "Where does my donation go?",
+    "a": "Every dollar donated to Beast Philanthropy goes directly to funding real-world projects like clean water infrastructure, child labor intervention, food security programs, and more. Donations are deployed through verified partner organizations with track records of field-level accountability."
+   },
+   {
+    "q": "Can I donate monthly?",
+    "a": "Yes. Beast Philanthropy accepts both one-time and monthly recurring donations. Monthly giving helps fund ongoing programs like Beast Pantry.",
+    "link": {
+     "href": "/donate",
+     "label": "Set up a monthly donation"
+    }
+   },
+   {
+    "q": "Are donations tax deductible?",
+    "a": "Yes. Beast Philanthropy is a registered 501(c)(3) nonprofit organization. Donations are tax deductible to the extent permitted by law."
+   },
+   {
+    "q": "Where can I find your financial reports?",
+    "a": "Beast Philanthropy's financial reports, including our annual report and IRS Form 990, are publicly available on our Impact & Reports page.",
+    "link": {
+     "href": "/financial-reports",
+     "label": "Go to Financial Reports"
+    }
+   },
+   {
+    "q": "Can I donate crypto or stock?",
+    "a": "Yes, select 'Crypto or Stock' in the donate box."
+   }
+  ]
+ },
+ {
+  "label": "Projects & Campaigns",
+  "items": [
+   {
+    "q": "How does Beast Philanthropy choose its projects?",
+    "a": "Projects are chosen based on three criteria: scale of impact, verifiability, and the ability to demonstrate results. No project launches without a clear deployment plan, and no outcomes are published without third-party verification. Beast Philanthropy focuses its resources across three core areas, food security, child labor in Ghana, and large-scale campaigns that demonstrate generosity at a global scale."
+   },
+   {
+    "q": "What is #TeamWater?",
+    "a": "#TeamWater is the largest clean water campaign in history. Led by MrBeast and Mark Rober in collaboration with WaterAid as Global Partner, #TeamWater raised $40 million to provide lasting access to clean water for two million people across 25+ countries and five continents. The campaign is ongoing, infrastructure is actively being built and maintained by local communities.",
+    "link": {
+     "href": "/our-work/team-water",
+     "label": "Learn more about #TeamWater"
+    }
+   },
+   {
+    "q": "What is the Ghana Initiative?",
+    "a": "Beast Philanthropy's Ghana Initiative is a minimum five-year program working across 11 cocoa-farming communities in Ghana's Eastern Region to eradicate illegal child labor. The program operates on two pillars (community development and ethical sourcing) addressing both the root causes of child labor and the market conditions that perpetuate it. More than 10,167 direct beneficiaries are currently supported through the program.",
+    "link": {
+     "href": "/our-work/ghana-child-labor",
+     "label": "Learn more about the Ghana Initiative"
+    }
+   },
+   {
+    "q": "What is Beast Pantry?",
+    "a": "Beast Pantry is Beast Philanthropy's flagship local program, a food pantry based in Greenville, North Carolina serving families in the community where Jimmy grew up. Since launch, Beast Pantry has distributed more than 60 million pounds of food, delivered over 48 million meals, and fed more than 15 million individuals. It is a permanent, ongoing program with no end date.",
+    "link": {
+     "href": "/our-work/beast-pantry",
+     "label": "Learn more about Beast Pantry"
+    }
+   }
+  ]
+ },
+ {
+  "label": "#TeamWater",
+  "items": [
+   {
+    "q": "How does one dollar provide a year of clean water, and what will the money raised actually achieve?",
+    "a": "The one dollar for one year figure is a planning average. Clean water can cost anywhere from about $10 to $150 per person depending on the community and system needed, so WaterAid and partners designed a mix of projects averaging roughly $20 per person. The more than $40 million raised will reach around 2 million people, each with water systems built to last at least two decades, which is what the campaign means by tens of millions of years of clean water.",
+    "link": {
+     "href": "/our-work/team-water",
+     "label": "Learn more about #TeamWater"
+    }
+   },
+   {
+    "q": "Which countries are the #TeamWater projects taking place in, and how were they chosen?",
+    "a": "The work reaches communities in more than 20 countries across 5 continents, including Kenya, Tanzania, Brazil, Cambodia, Rwanda, the USA, Nigeria, Bangladesh, and Mozambique. WaterAid and partners choose each location and solution based on where the need is greatest and what will work best for that community.",
+    "link": {
+     "href": "/our-work/team-water",
+     "label": "Learn more about #TeamWater"
+    }
+   },
+   {
+    "q": "What types of water systems are used, and why do they differ from one community to the next?",
+    "a": "Solutions range from piped connections and solar-powered pumps to gravity-fed pipelines, rainwater harvesting, desalination or household filters. WaterAid and partners match the approach to each community's geography, climate, and needs, so the systems differ from place to place.",
+    "link": {
+     "href": "/our-work/team-water",
+     "label": "Learn more about #TeamWater"
+    }
+   },
+   {
+    "q": "When did the projects begin, and when will communities start receiving clean water?",
+    "a": "Work began in 2025 and will run for about 5 years. Some communities are already connected, while others are still in design, since WaterAid and partners often spend up to a year preparing with a community before building begins, so that the systems are built to last. Clean water arrives on a rolling basis, depending on the size and complexity of each project.",
+    "link": {
+     "href": "/our-work/team-water",
+     "label": "Learn more about #TeamWater"
+    }
+   },
+   {
+    "q": "How will these water systems be maintained over time?",
+    "a": "Long-term maintenance is planned into every project from the start. Water systems last when local people own and manage them and when funds, spare parts, and trained technicians are available for repairs. WaterAid and partners build around these factors, working with local communities and governments and training local technicians to keep systems running for years.",
+    "link": {
+     "href": "/our-work/team-water",
+     "label": "Learn more about #TeamWater"
+    }
+   },
+   {
+    "q": "Is #TeamWater a charity?",
+    "a": "No, #TeamWater is a fundraising campaign rather than a standalone charity. Donations go to the registered nonprofits delivering the work, our global partner WaterAid along with the Alok Institute, GivePower, and DigDeep, who are accountable for how the money is used and reported.",
+    "link": {
+     "href": "/our-work/team-water",
+     "label": "Learn more about #TeamWater"
+    }
+   },
+   {
+    "q": "Who receives and manages the donated funds?",
+    "a": "Donations are received and managed by WaterAid, the campaign's global partner, which implements programs directly in some countries and partners with local organizations in others, including GivePower in Kenya, the Alok Institute in Brazil, and DigDeep in the United States.",
+    "link": {
+     "href": "/our-work/team-water",
+     "label": "Learn more about #TeamWater"
+    }
+   },
+   {
+    "q": "Why are MrBeast and Mark Rober raising funds through WaterAid rather than running the water projects themselves?",
+    "a": "MrBeast and Mark Rober raise the awareness and funds, while delivering clean water that lasts takes deep on-the-ground expertise. The campaign partners with WaterAid, working since 1981 across more than 20 countries, along with GivePower, the Alok Institute, and DigDeep. Together they design the projects, work directly with communities, and keep the water flowing long after the campaign ends.",
+    "link": {
+     "href": "/our-work/team-water",
+     "label": "Learn more about #TeamWater"
+    }
+   },
+   {
+    "q": "Why can't people just boil water to drink?",
+    "a": "Millions of women and girls still need to walk a long way to find any water, clean or not. The fact that it is dirty water just adds another step to their process, which is already long and draining. In theory, boiling water helps to kill bacteria but:\n• It doesn't remove heavy metals or chemicals\n• It's time-consuming and burns fuel most families can't spare\n• It can only be done in small batches\n• And boiled water can still get re-contaminated during storage\nBoiling water costs time, wood or charcoal, and releases more than a ton of CO₂ per household per year. It also contributes to deforestation, air pollution, and household costs. Because of this, many people don't boil water, putting their health at risk.",
+    "link": {
+     "href": "/our-work/team-water",
+     "label": "Learn more about #TeamWater"
+    }
+   }
+  ]
+ }
+]

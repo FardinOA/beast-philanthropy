@@ -1,0 +1,148 @@
+[
+ {
+  "name": "Bangladesh",
+  "flag": "https://cdn.sanity.io/images/5l44tcs4/production/f05a6f98ebb5cc7dcba514af9c0c4a986eba5dcc-62x62.svg",
+  "dates": "Oct 2025 – Sept 2030",
+  "location": "Chattogram",
+  "status": "in-progress",
+  "detail": {
+   "bullets": [
+    "Piped network expansion into underserved low-income areas",
+    "Digital metering and fast response repair teams to reduce water losses",
+    "Strengthening C-WASA's technical and operational capabilities for long-term sustainability"
+   ],
+   "partner": "Chattogram Water & Sanitation Association (C-WASA)"
+  }
+ },
+ {
+  "name": "Cambodia",
+  "flag": "https://cdn.sanity.io/images/5l44tcs4/production/7341defc2f028541dbe4abca86682eebc2052bf6-93x93.png",
+  "dates": "Oct 2025 – Sept 2030",
+  "location": "Kandal, Takeo, Kampong Speu & Kampong Chhnang",
+  "status": "in-progress",
+  "detail": {
+   "bullets": [
+    "Piped network expansion into underserved villages",
+    "Household connection subsidies for low-income and vulnerable families",
+    "Water quality monitoring and leakage management improvements"
+   ],
+   "partner": "7 × Water Operators"
+  }
+ },
+ {
+  "name": "Mozambique",
+  "flag": "https://cdn.sanity.io/images/5l44tcs4/production/faabf15a23c42141925913ea8c51aa2ebbf95ddd-93x93.png",
+  "dates": "Jan 2026 – Sept 2030",
+  "location": "Maputo",
+  "status": "in-progress",
+  "detail": {
+   "bullets": [
+    "Filtration system upgrade to significantly improve water quality",
+    "Network rehabilitation and expansion to reach unserved communities",
+    "Digital innovation to improve and sustain services long-term"
+   ],
+   "partner": "Águas da Região de Maputo (AdRM)"
+  }
+ },
+ {
+  "name": "Nigeria",
+  "flag": "https://cdn.sanity.io/images/5l44tcs4/production/8efabb272bc842f024bf5dbd484e427dc8ae044a-62x62.png",
+  "dates": "Feb 2026 – Sept 2030",
+  "location": "Lagos",
+  "status": "in-progress",
+  "detail": {
+   "bullets": [
+    "Rehabilitation of pipelines and core infrastructure at a key treatment plant",
+    "Digital network mapping and pipeline upgrades to expand supply",
+    "Meter installation and local team training to manage leakages"
+   ],
+   "partner": "Lagos Water Corporation (LWC)"
+  }
+ },
+ {
+  "name": "Rwanda",
+  "flag": "https://cdn.sanity.io/images/5l44tcs4/production/aeb5030eb4d8bd736e43973bd0252e8c71331c8c-320x213.png",
+  "dates": "Dec 2025 – Dec 2028",
+  "location": "Bugesera",
+  "status": "in-progress",
+  "detail": {
+   "bullets": [
+    "Water treatment plant optimization and transmission pipeline work",
+    "Piped network extension to reach unserved communities",
+    "Metered zones for improved leakage monitoring and response",
+    "Training local operators and plumbers for long-term management"
+   ],
+   "partner": "Water And Sanitation Corporation (WASAC)"
+  }
+ },
+ {
+  "name": "Kenya",
+  "flag": "https://cdn.sanity.io/images/5l44tcs4/production/8a9b98da73774654760deb2a00ea29f90d10a234-447x447.png",
+  "dates": "Dec 2025",
+  "location": "Athi River",
+  "status": "completed",
+  "detail": {
+   "bullets": [
+    "Solar-powered water farm delivering clean, reliable water access to the community",
+    "Completed in partnership with Give Power, with additional funders contributing alongside TeamWater"
+   ],
+   "partner": "Give Power"
+  }
+ },
+ {
+  "name": "Kenya",
+  "flag": "https://cdn.sanity.io/images/5l44tcs4/production/8a9b98da73774654760deb2a00ea29f90d10a234-447x447.png",
+  "dates": "Feb 2026",
+  "location": "Gilgil",
+  "status": "completed",
+  "detail": {
+   "bullets": [
+    "Mobi+ scale solar water farm expanding safe water access in Gilgil",
+    "Completed in partnership with Give Power, with additional funders contributing alongside TeamWater"
+   ],
+   "partner": "Give Power"
+  }
+ },
+ {
+  "name": "Tanzania",
+  "flag": "https://cdn.sanity.io/images/5l44tcs4/production/c7ff7ad81ba66c7dab94fbf72267a5d491a96848-554x554.png",
+  "dates": "Nov 2025",
+  "location": "University of Dodoma",
+  "status": "completed",
+  "detail": {
+   "bullets": [
+    "Solar water farm serving University of Dodoma students, who previously faced price gouging and limited access to safe water",
+    "Completed in partnership with Give Power, with additional funders contributing alongside TeamWater"
+   ],
+   "partner": "Give Power"
+  }
+ },
+ {
+  "name": "Brazil",
+  "flag": "https://cdn.sanity.io/images/5l44tcs4/production/529dc70c383dfaea0c8d7248e4a6403419774e4c-500x500.png",
+  "dates": "Jun 2026",
+  "location": "Mato Grosso State",
+  "status": "completed",
+  "detail": {
+   "bullets": [
+    "Água de Beber: distribution of 700 household water filters, plus sanitation education and technical training, across Indigenous territories in Mato Grosso",
+    "Phase 2 (urban expansion) is now underway, targeting additional beneficiaries"
+   ],
+   "partner": "Alok Institute"
+  }
+ },
+ {
+  "name": "USA",
+  "flag": "https://cdn.sanity.io/images/5l44tcs4/production/7d4ed7895693a3e2c4e7dc1fd3f2f01ab3521af2-500x500.png",
+  "dates": "Apr 2026",
+  "location": "West Virginia",
+  "status": "completed",
+  "detail": {
+   "bullets": [
+    "New main water line completed Oct 2025; individual home service connections completed Apr 2026",
+    "50 homes connected, restoring reliable water access to an underserved community"
+   ],
+   "partner": "DigDeep"
+  }
+ }
+]

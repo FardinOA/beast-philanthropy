@@ -1,0 +1,68 @@
+[
+ {
+  "status": "completed",
+  "date": "Aug 1, 2025",
+  "title": "#TeamWater Launches",
+  "body": [
+   {
+    "text": "MrBeast and Mark Rober go live with one of the largest creator networks ever assembled, from global megastars to school kids hosting bake sales."
+   }
+  ]
+ },
+ {
+  "status": "completed",
+  "date": "Aug 31, 2025",
+  "body": [
+   {
+    "text": "The campaign closes having surpassed its $40M goal, the biggest crowdfunded clean water campaign in internet history."
+   },
+   {
+    "pink": true
+   }
+  ]
+ },
+ {
+  "status": "completed",
+  "date": "Fall 2025",
+  "title": "Projects Mobilize Around the World",
+  "body": [
+   {
+    "text": "Work moves forward across nine countries, Bangladesh, Cambodia, Mozambique, Nigeria, Rwanda, Kenya, Tanzania, Brazil, and the United States, some breaking ground for the first time, others accelerating work already in motion. Engineering assessments, partnerships, and infrastructure planning are underway everywhere TeamWater dollars are at work."
+   }
+  ]
+ },
+ {
+  "status": "in-progress",
+  "date": "2025–2026",
+  "title": "Infrastructure Build Underway",
+  "body": [
+   {
+    "text": "Pipes going in. Pumps installed. Treatment plants upgraded. Local operators trained. The hard, unglamorous, essential work is happening right now around the world."
+   }
+  ]
+ },
+ {
+  "status": "in-progress",
+  "date": "2026–2027",
+  "title": "First Communities Come Online",
+  "body": [
+   {
+    "text": "Households connect to clean water for the first time. Every outcome documented with photography, community data, and third-party verification."
+   }
+  ]
+ },
+ {
+  "status": "ahead",
+  "date": "2028–2030",
+  "title": "Two Million People. Clean Water. For Decades.",
+  "body": [
+   {
+    "text": "Every project completed. Systems handed over to local operators and governments, designed to last long after the campaign ends."
+   },
+   {
+    "text": "2,000,000 to be reached by September 2030",
+    "pink": true
+   }
+  ]
+ }
+]

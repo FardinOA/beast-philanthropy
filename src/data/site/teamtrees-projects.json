@@ -1,0 +1,690 @@
+[
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Arkansas, Louisiana, Mississippi, US",
+  "region": "Mississippi River Valley 1,000,000 Trees",
+  "treeCount": 1000000,
+  "place": "Mississippi River Valley",
+  "desc": "Restoring critical habitat and water quality in the Mississippi Delta's forested wetlands.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "The Mississippi Delta was once a 24-million-acre forested wetland. Today only 4.4 million forested acres remain, mostly in small patches, leading to water quality and habitat issues. Tree planting efforts will improve critical habitat for threatened and endangered species and protect the water quality of the rivers and streams within the delta."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "British Columbia, Canada",
+  "region": "Hanceville Fire Restoration 150,000 Trees",
+  "treeCount": 150000,
+  "place": "Hanceville Fire Restoration",
+  "desc": "Replanting areas burned in the 2017 Hanceville Fire, where extreme heat prevented natural regeneration.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/130515ad2ff9d8d17ab22b18b3b2370347575ef3-1100x550.jpg",
+  "story": "In 2017, the Hanceville Fire raged through British Columbia, burning 240,000 hectares of land. Because of the extreme heat, portions of burned forestland cannot regenerate naturally and must be replanted. Replanting will ensure that area residents will continue to enjoy all the benefits of the forest, including clean air and water.",
+  "gallery": {
+   "label": "Watch",
+   "items": [
+    {
+     "videoUrl": "https://www.youtube.com/embed/XX9QLspLlgA"
+    }
+   ]
+  }
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "British Columbia, Canada",
+  "region": "Elephant Hill Restoration 170,000 Trees",
+  "treeCount": 170000,
+  "place": "Elephant Hill Restoration",
+  "desc": "Restoring 1,920 square kilometers of land charred by the 2017 Elephant Hill Fire.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg"
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "California, US",
+  "region": "Wildfire Restoration 100,000 Trees",
+  "treeCount": 100000,
+  "place": "Wildfire Restoration",
+  "desc": "Helping communities recover from the Carr and Camp Fires of 2018.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/dc4f8c8c6c8ea86377ac01cd8c576a933ba5823f-1100x550.jpg",
+  "story": "This reforestation effort aims to help residents recover from the many wildfires that have burned through California, including the Carr and Camp Fires. The 2018 wildfire season saw an estimated 8,000 fires burning through more than 1.8 million acres of forestland between July and December. Replanting will ensure that communities around the state won't face increasing challenges such as mudslides and degraded soil, water, and air quality.",
+  "gallery": {
+   "label": "Watch",
+   "items": [
+    {
+     "videoUrl": "https://www.youtube.com/embed/0NNlEsv8fCc"
+    }
+   ]
+  }
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Dominican Republic",
+  "region": "200,000 Trees",
+  "treeCount": 200000,
+  "desc": "Supplying trees to smallholder farmers to transform degraded land into diverse agroforestry plots.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "Helping plant thousands of new trees on agricultural land in the Dominican Republic, this project is part of a wider program that empowers farmers throughout the country to transform historically degraded land into thriving agroforestry plots. These new trees will not only improve the local environment, but also improve these individuals' crop yields, nutrition, income, and quality of life."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Florida, US",
+  "region": "Tyndall Air Force Base 983,000 Trees",
+  "treeCount": 983000,
+  "place": "Tyndall Air Force Base",
+  "desc": "Replacing 12,000 acres of mature slash pine trees destroyed by Hurricane Michael in 2018.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "In October of 2018, Hurricane Michael passed directly over Tyndall Air Force Base near Panama City, Florida. The Category 5 hurricane caused major wind and water damage including 12,000 acres of mature slash pine trees snapped in half. While funding was available for the cleanup effort following the severe storm damage, support is needed to replace the trees and ensure a healthy, forested future for this ground."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Georgia, US",
+  "region": "Georgia Watersheds 450,000 Trees",
+  "treeCount": 450000,
+  "place": "Georgia Watersheds",
+  "desc": "Improving tree cover across four areas of Georgia in partnership with The Nature Conservancy.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "The health of our waterways often begins with forested watersheds. In Georgia, we are working with several local partners to improve tree cover in four areas of the state, protecting waterway health and providing critical habitat for local wildlife."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Haiti",
+  "region": "1,050,000 Trees",
+  "treeCount": 1050000,
+  "desc": "Restoring mangrove trees in coastal marsh systems in southern Haiti with Eden Reforestation Projects.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "Haiti's mangrove forests help to stabilize shorelines, improve the quality of the water, and provide a natural habitat for fish and other coastal sea life in addition to supporting coral reef health. These mangrove areas are in need of replanting, as this project helped to restore mangrove trees in coastal marsh systems in southern Haiti."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Michigan, US",
+  "region": "Michigan State Forest Lands 2,607,067 Trees",
+  "treeCount": 2607067,
+  "place": "Michigan State Forest Lands",
+  "desc": "Replanting native tree species across several of Michigan's state forests on a large scale.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "By planting more than 4 million red pine and jack pine trees, forests across Michigan will see improved habitat for wildlife including deer, turkey, grouse, and, most notably, the Kirtland's warbler. These birds nest in young jack pine forest stands that are created by tree planting. The pine trees will also help to manage carbon sequestration and storage."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Montana, US",
+  "region": "Custer Gallatin National Forest 275,000 Trees",
+  "treeCount": 275000,
+  "place": "Custer Gallatin National Forest",
+  "desc": "Speeding up forest recovery after large wildfires have plagued this forest since 2000.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "Large wildfires have plagued this forest since 2000, and much of the forest cover is struggling to regenerate on its own due to the intensity of the fires. Tree planting efforts will speed up the recovery of the forest habitat for area wildlife as well as improve area watershed health."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Montana, US",
+  "region": "Flathead & Kootenai National Forests 295,132 Trees",
+  "treeCount": 295132,
+  "place": "Flathead & Kootenai National Forests",
+  "desc": "Replanting tree species resistant to wildfires, bark beetles, and root disease.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "Wildfires, bark beetles, and root disease have created widespread tree mortality in Montana's Kootenai and Flathead National Forests. This project is replanting the area with trees species that are resistant to all three of those issues. In doing so, it will restore critical wildlife habitat and ensure the forests are more resilient for the years ahead."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Nebraska, US",
+  "region": "Nebraska National Forest 40,000 Trees",
+  "treeCount": 40000,
+  "place": "Nebraska National Forest",
+  "desc": "Reestablishing Ponderosa Pine stands in high-intensity burn areas from 2006 and 2012 wildfires.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "The rugged landscape of the Nebraska National Forest's Pine Ridge District is a treat amid the central plains. Catastrophic wildfires, however, blazed through this National Forest in 2006 and again in 2012, wiping out much of the area's Ponderosa Pine stands. Aggressive reforestation is needed to reestablish this tree species in the high-intensity burn areas that are incapable of natural regeneration."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Nicaragua",
+  "region": "975,000 Trees",
+  "treeCount": 975000,
+  "desc": "Supporting small-scale farming families through the Arbor Day Foundation's CommuniTrees program.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "To help support small-scale farming families in Nicaragua, the Arbor Day Foundation worked with local leaders to help build financial security and sustainable livelihoods, along with a stronger tree canopy, by reforesting previously underused land."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "North Carolina, US",
+  "region": "Bladen Lakes State Forest 147,555 Trees",
+  "treeCount": 147555,
+  "place": "Bladen Lakes State Forest",
+  "desc": "Replanting forests destroyed by flooding from Hurricane Florence in September 2018.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/5fb924755ead156cffd86d9f3dfdce4aa343be7a-1100x550.jpg",
+  "story": "In September of 2018, North Carolina was hit by Hurricane Florence. With it came flooding of the Cape Fear River that destroyed young forest trees in Bladen Lakes State Forest. This project will replant forest areas affected by flooding, restore critical habitat for area wildlife, and ensure that new forest plantings can withstand potential future flooding events.",
+  "gallery": {
+   "label": "Watch",
+   "items": [
+    {
+     "videoUrl": "https://www.youtube.com/embed/QRV8w4Yo_m4"
+    }
+   ]
+  }
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Oregon, US",
+  "region": "Rogue River-Siskiyou National Forest 23,100 Trees",
+  "treeCount": 23100,
+  "place": "Rogue River-Siskiyou National Forest",
+  "desc": "Ensuring a resilient tree line after the 2017 Chetco Bar Fire burned more than 170,000 acres.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "In 2017, the Chetco Bar Fire burned more than 170,000 acres of the Rogue River-Siskiyou National Forest, leaving in its wake limited opportunity for successful natural regeneration. This replanting work is critical to ensure a resilient tree line and habitat for wildlife."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Oregon, US",
+  "region": "Willamette River Basin 500,000 Trees",
+  "treeCount": 500000,
+  "place": "Willamette River Basin",
+  "desc": "Protecting the watershed that serves two-thirds of Oregon's population and 75% of its economic output.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/038cd1b2d23c35f19763b214aa5390a87d28561c-1100x551.jpg",
+  "story": "The iconic Willamette River is 187 miles in length, drains a 11,478-square-mile area (12% of Oregon's landscape), and serves as a major tributary of the Columbia River. Tree planting efforts here will protect the watershed area of a basin that is home to two-thirds of Oregon's population and generates 75% of its economic output. This project will reestablish forests to ensure clean drinking water for residents as well as improve water quality and habitat for wildlife dependent upon this area.",
+  "gallery": {
+   "label": "Watch",
+   "items": [
+    {
+     "videoUrl": "https://www.youtube.com/embed/2AgvQK_A4WA"
+    }
+   ]
+  }
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "South Carolina, US",
+  "region": "1,350,000 Trees",
+  "treeCount": 1350000,
+  "desc": "Restoring longleaf pine forests to support rare wildlife including the gopher tortoise and red-cockaded woodpecker.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "The longleaf pine ecosystem supports a wide variety of plant and animal species, many relying solely on this type of habitat. But over time, longleaf pine forests have dwindled. Replanting work is underway in South Carolina to restore longleaf pine stands and support rare wildlife including the gopher tortoise and red-cockaded woodpecker."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Southeastern US",
+  "region": "Alabama, Florida, Georgia, South Carolina 1,000,000 Trees",
+  "treeCount": 1000000,
+  "place": "Alabama, Florida, Georgia, South Carolina",
+  "desc": "Reestablishing longleaf pine forests in partnership with the National Fish and Wildlife Foundation.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "Longleaf pine forests have been disappearing at an alarming rate throughout the southeastern portion of the U.S., leading to a decline in the quality of area watersheds and wildlife habitat. Work is underway to reestablish these trees on both public and private land."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Virginia, US",
+  "region": "Rappahannock River Watershed 50,000 Trees",
+  "treeCount": 50000,
+  "place": "Rappahannock River Watershed",
+  "desc": "Planting trees to prevent erosion, provide wildlife habitat, and reduce pollution in the watershed.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "The Rappahannock River watershed encompasses 2,700 square miles. Within this area, thousands of miles of streams are without riparian buffers and suffer from high levels of nitrogen and phosphorus. The watershed faces additional challenges due to urban development. Trees must be planted to prevent erosion, provide wildlife habitat, and reduce pollution levels in waterways."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Washington, US",
+  "region": "Washington State Lands 650,000 Trees",
+  "treeCount": 650000,
+  "place": "Washington State Lands",
+  "desc": "Improving forest resiliency for areas affected by disease and insect damage across Washington State.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "This project worked to improve overall forest health throughout the State of Washington. Replanting efforts focused on providing forest resiliency for areas affected by disease and insect damage, restoring riparian zones, improving habitat for the threatened northern spotted owl, and ensuring healthy and diverse mixed-species tree stands."
+ },
+ {
+  "continent": "North America",
+  "status": "Complete",
+  "title": "Guatemala",
+  "region": "Mazatenango Coastal Restoration 25,000 Trees",
+  "treeCount": 25000,
+  "place": "Mazatenango Coastal Restoration",
+  "desc": "Restoring mangroves and coastal forest trees in a biodiversity hotspot listed by Conservation International.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "For decades, Guatemala's southern coast has experienced degradation due to unsustainable agricultural practices that have led to the desertification of the region. The quality of the soil has made traditional agriculture difficult, and pollution and erosion have damaged the water channels in the mangrove estuaries, leading to decreased natural seafood sources. Trees were planted to return the forest canopy back to its natural state. As it is considered a biodiversity hotspot, reestablishing the mangrove estuary benefits the rich diversity of birds, fish, and shellfish that rely on the estuary."
+ },
+ {
+  "continent": "Africa",
+  "status": "Complete",
+  "title": "Burundi",
+  "region": "100,000 Trees",
+  "treeCount": 100000,
+  "desc": "Breaking the cycle of poverty and deforestation through tree nurseries, planting, and farmer education.",
+  "story": "Burundi is one the poorest and most deforested countries in the world, with a vicious cycle of ever-increasing poverty, deforestation, and land degradation. In addition to establishing tree nurseries and planting trees, this project works to break the cycle through education. Farmers can learn about sustainable farming and the benefits of trees for their families and their communities."
+ },
+ {
+  "continent": "Africa",
+  "status": "Complete",
+  "title": "The Great Green Wall",
+  "region": "Senegal, Mali, Chad 3,840,000 Trees",
+  "treeCount": 3840000,
+  "place": "Senegal, Mali, Chad",
+  "desc": "Restoring 100 million hectares of degraded land across the African Sahel, one of the world's poorest regions.",
+  "story": "The Great Green Wall is a new swath of trees being planted across the African Sahel, one of the poorest regions in the world. It aims to restore 100 million hectares of degraded land and combat the area's increased desertification, drought, and food insecurity. Once complete, it will improve the lives of millions of Africans for generations to come."
+ },
+ {
+  "continent": "Africa",
+  "status": "Complete",
+  "title": "Kenya",
+  "region": "Kijabe Forest 950,000 Trees",
+  "treeCount": 950000,
+  "place": "Kijabe Forest",
+  "desc": "Reestablishing a sustainable water supply by replanting around springs and rivers in one of Kenya's five nationally important water towers.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/c05bf78323fcd2bfb649d6bbaadc8b5d53c23f87-1100x550.jpg",
+  "story": "Kenya's Kijabe Forest has historically been one of Kenya's five nationally important water towers, which provide an estimated 75 percent of the country's water resources. Over the past 15 years, however, the forest has been cleared for charcoal and timber, creating dramatic and damaging impacts for wildlife, infrastructure, and quality of life. The goal of planting 1.5 million trees will help reestablish a sustainable water supply through protecting and replanting around springs and rivers. These trees will also restore, habitat for wildlife, stabilize steep slopes prone to landslides, and secure livelihoods.",
+  "gallery": {
+   "label": "Watch",
+   "items": [
+    {
+     "videoUrl": "https://www.youtube.com/embed/6zP5evgY1JU"
+    }
+   ]
+  }
+ },
+ {
+  "continent": "Africa",
+  "status": "Complete",
+  "title": "Kenya",
+  "region": "Mangrove Reforestation 25,000 Trees",
+  "treeCount": 25000,
+  "place": "Mangrove Reforestation",
+  "desc": "Restoring mangrove forests in partnership with Veritree to empower impoverished coastal communities.",
+  "story": "Due to urbanization and a lack of effective governance, the mangroves of coastal Kenya have been overexploited and overharvested. Local communities depend on these mangrove ecosystems for employment, livelihood, and nutrition. Partnering with Veritree, this project will help restore the mangrove forests with the goal of empowering the impoverished coastal community to break the poverty cycle. The restored forests will help defend against storm surges and support local biodiversity."
+ },
+ {
+  "continent": "Africa",
+  "status": "Complete",
+  "title": "Madagascar",
+  "region": "Mangroves 600,000 Trees",
+  "treeCount": 600000,
+  "place": "Mangroves",
+  "desc": "Strategically restoring mangroves along the coast to preserve this unique coastal ecosystem.",
+  "story": "In the coastal zones of Madagascar, mangroves are critical. With increasing mangrove deforestation, these areas are facing destabilized coastline and an increased vulnerability to storms and severe weather events. We are working to strategically restore mangroves along the coast of Madagascar to help preserve this unique ecosystem."
+ },
+ {
+  "continent": "Africa",
+  "status": "Complete",
+  "title": "Madagascar",
+  "region": "Kianjavato Mountain Range 400,000 Trees",
+  "treeCount": 400000,
+  "place": "Kianjavato Mountain Range",
+  "desc": "Rebuilding rain forest habitat for critically endangered lemurs in partnership with Omaha's Henry Doorly Zoo and Aquarium and Madagascar Biodiversity Partnership.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/312aa24088be9849d6dfc1161bb899d317328237-1100x550.jpg",
+  "story": "Our partnership with Omaha's Henry Doorly Zoo and Aquarium and the Madagascar Biodiversity Partnership is focused on reversing the destruction of forest habitat that is home to critically endangered lemurs and other wildlife species found nowhere else on Earth. Tree planting efforts are underway to rebuild the lush landscape. Locals are becoming actively involved in reestablishing the rain forest canopy there, creating habitat for lemurs and a better way of life for the people of Madagascar.",
+  "gallery": {
+   "label": "Watch",
+   "items": [
+    {
+     "videoUrl": "https://www.youtube.com/embed/9YcXJeBc-bQ"
+    }
+   ]
+  }
+ },
+ {
+  "continent": "Africa",
+  "status": "Complete",
+  "title": "Mozambique",
+  "region": "Eden Reforestation 1,252,007 Trees",
+  "treeCount": 1252007,
+  "place": "Eden Reforestation",
+  "desc": "Planting and managing mangrove forests to empower local communities, improve fisheries, and remove carbon from the atmosphere.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/ada12d9412107ea8f04c726ffbb47422ffd6dc4b-1100x550.jpg",
+  "story": "In response to the large-scale loss of mangroves in Mozambique, we are working with partners to provide support for local communities to plant and manage mangrove forests. This offers long-term employment and livelihood improvements, particularly the empowerment of women, while helping to protect coastal communities from environmental disasters, improving fisheries, and removing carbon from the atmosphere.",
+  "gallery": {
+   "label": "Watch",
+   "items": [
+    {
+     "videoUrl": "https://www.youtube.com/embed/aPo-1lM6dN0"
+    }
+   ]
+  }
+ },
+ {
+  "continent": "Africa",
+  "status": "Complete",
+  "title": "Sierra Leone",
+  "region": "Freetown Peninsula 80,000 Trees",
+  "treeCount": 80000,
+  "place": "Freetown Peninsula",
+  "desc": "Providing residents the opportunity to plant and care for trees in their community to build greater environmental resiliency.",
+  "story": "Now facing the alarming effects of deforestation, including catastrophic mudslides, officials in this area are working to provide the benefits of trees to urban and suburban areas. Efforts through this project are focused on providing residents with the opportunity to plant and care for a tree within their community to build greater environmental resiliency."
+ },
+ {
+  "continent": "Asia",
+  "status": "Complete",
+  "title": "China",
+  "region": "Minquin County 25,000 Trees",
+  "treeCount": 25000,
+  "place": "Minquin County",
+  "desc": "Planting indigenous trees and stabilizing sand dunes in one of China's most desertification-affected counties.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "China is one of the most affected countries in the world by desertification. In Minquin County alone, the desertification area accounts for nearly 95% of the total land area. As the young workforce leaves for an urban life, local residents face the reality of becoming ecological refugees. By planting indigenous trees, stabilizing sand dunes, training local community members and creating job opportunities, the fate of Minquin County can be improved significantly."
+ },
+ {
+  "continent": "Asia",
+  "status": "Complete",
+  "title": "China",
+  "region": "Liaoning Province, near Gaizhou 45,000 Trees",
+  "treeCount": 45000,
+  "place": "Liaoning Province, near Gaizhou",
+  "desc": "Restoring forest cover to reverse soil depletion and erosion and improve the local ecosystem.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/5fb924755ead156cffd86d9f3dfdce4aa343be7a-1100x550.jpg",
+  "story": "Tree planting efforts are underway near the city of Gaizhou, China. The area currently has some forest cover, but it is in poor condition, which has led to soil depletion and erosion. New trees are needed to reverse those conditions, restore habitat for wildlife, and bring back a beautiful outdoor space for the people of Gaizhou to enjoy. This evolution in the ecosystem will also contribute to promoting social stability and sustainable economic development."
+ },
+ {
+  "continent": "Asia",
+  "status": "Complete",
+  "title": "India",
+  "region": "Cauvery River Basin 905,439 Trees",
+  "treeCount": 905439,
+  "place": "Cauvery River Basin",
+  "desc": "Reforesting this river basin to stabilize water flow. The river has shrunk by an estimated 40% over 70 years.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/ada12d9412107ea8f04c726ffbb47422ffd6dc4b-1100x550.jpg",
+  "story": "Southern India's Cauvery River Basin is in crisis. The river has shrunk by an estimated 40% from its historical flows over 70 years. This is resulting in drinking water scarcity. A loss of tree cover has also contributed to poor soil health. Reforesting this river basin and educating farmers about agroforestry practices will help to stabilize the river and improve soil conditions over time."
+ },
+ {
+  "continent": "Asia",
+  "status": "Complete",
+  "title": "Indonesia",
+  "region": "West Papua, Biak Island 450,000 Trees",
+  "treeCount": 450000,
+  "place": "West Papua, Biak Island",
+  "desc": "Restoring mangroves and tropical forests in the Coral Triangle, the global center of marine biodiversity.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/038cd1b2d23c35f19763b214aa5390a87d28561c-1100x551.jpg",
+  "story": "West Papua, Indonesia, situated in the Coral Triangle, is an area recognized as the global center of marine biodiversity and a global priority for conservation. Biak Island is one of the poorest areas of Indonesia where subsistence farmers and fishers make up approximately 75% of the population. This project will focus on restoring mangroves and tropical forests in this area and to promote food security by helping local people plant agroforestry trees."
+ },
+ {
+  "continent": "Asia",
+  "status": "Complete",
+  "title": "Laos",
+  "region": "Xe Sap and Xe Pian National Protected Areas 30,000 Trees",
+  "treeCount": 30000,
+  "place": "Xe Sap and Xe Pian National Protected Areas",
+  "desc": "Enhancing tree canopy in ecosystems that provide habitat for plant and animal species found nowhere else on Earth.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "With ecosystems not common in Laos, both Xe Sap and Xe Pian National Protected Areas are intrinsically significant. This forest region provides habitat for a wide variety of plant and animal species, many found nowhere else on Earth. Reforestation efforts are focused on enhancing existing tree canopy while also improving degraded areas and supporting agroforestry efforts. This work will foster biodiversity, create economic opportunities for local residents, and improve overall resilience to climate change."
+ },
+ {
+  "continent": "Asia",
+  "status": "Complete",
+  "title": "Nepal",
+  "region": "Chitwan National Park 885,000 Trees",
+  "treeCount": 885000,
+  "place": "Chitwan National Park",
+  "desc": "Restoring forests in upland and lowland areas of the mountainous Nawalparasi District and around Chitwan National Park.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/5fb924755ead156cffd86d9f3dfdce4aa343be7a-1100x550.jpg",
+  "story": "Chitwan National Park hosts more than 700 species of wildlife including leopards and the elusive Bengal tiger. Replanting efforts here are focused on improving livelihoods for those who call Nepal home and restoring forests in areas of critical importance. The planting sites are located in upland areas of the mountainous Nawalparasi District, along lowland alluvial plains, and around Chitwan National Park as a means of developing a buffer zone around this national treasure."
+ },
+ {
+  "continent": "Asia",
+  "status": "New 2025 Project",
+  "title": "Nepal",
+  "region": "Jalthal Forest, Jhapa District 72,000 Trees",
+  "treeCount": 72000,
+  "place": "Jalthal Forest, Jhapa District",
+  "desc": "Restoring a 6,000-hectare remnant forest to protect endangered species including the Asiatic elephant and Bengal tiger.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/ada12d9412107ea8f04c726ffbb47422ffd6dc4b-1100x550.jpg",
+  "story": "Located in Nepal's Jhapa district, the Jalthal Forest is a 6,000-hectare remnant of the once-extensive Charkose Jhadi forest. Today, habitat loss, expanding grasslands, and declining biodiversity threaten vulnerable and endangered species like the Burmese python, Asiatic elephant, gharial, Indian pangolin, and great hornbill. At the same time, local communities, many of whom depend on farming, struggle with degraded soils and weakened watershed health. This strategic reforestation effort is working to restore the landscape by planting native tree species and supporting local livelihoods through employment in forest restoration, fruit cultivation, and beekeeping. These efforts aim to improve biodiversity, enhance climate resilience, and empower community-led stewardship for long-term ecological and social benefits."
+ },
+ {
+  "continent": "Asia",
+  "status": "Complete",
+  "title": "Thailand",
+  "region": "Mae Hong Son Province 50,000 Trees",
+  "treeCount": 50000,
+  "place": "Mae Hong Son Province",
+  "desc": "Restoring rain forest canopy and creating habitat for endangered species including tortoises and Asian elephants.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/038cd1b2d23c35f19763b214aa5390a87d28561c-1100x551.jpg",
+  "story": "Unsustainable logging practices and changes in land use have left Thailand with a significant loss of rain forest canopy. Replanting is underway, with a goal of restoring forestlands while improving the quality of life for local residents. The newly planted trees will also grow to serve as habitat for endangered species such as tortoises and Asian elephants."
+ },
+ {
+  "continent": "Asia",
+  "status": "Complete",
+  "title": "Turkiye",
+  "region": "Adana Province 60,000 Trees",
+  "treeCount": 60000,
+  "place": "Adana Province",
+  "desc": "Restoring landscape after a massive wildfire swept across southern Turkiye in August 2020.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "A massive wildfire swept across southern Türkiye in August of 2020, leaving its landscape unable to naturally regenerate. These new trees will restore the area's beauty and bring back much-needed environmental benefits for Turkish villagers. They will also create long-term jobs, primarily for local women, who will help plant and maintain them long-term."
+ },
+ {
+  "continent": "Asia",
+  "status": "Complete",
+  "title": "Turkiye",
+  "region": "Izmir Province 50,000 Trees",
+  "treeCount": 50000,
+  "place": "Izmir Province",
+  "desc": "Planting red pines to return land to its natural state and ensure cleaner air, water, and better flood prevention.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/5fb924755ead156cffd86d9f3dfdce4aa343be7a-1100x550.jpg",
+  "story": "After generations of deforestation and land use change, this region of Türkiye is facing a real need for forest restoration. Red pines are being planted in an effort to return the land to its natural state, ensuring cleaner air, cleaner water, carbon storage, better flood prevention, and habitat for area wildlife."
+ },
+ {
+  "continent": "Asia",
+  "status": "Complete",
+  "title": "Turkiye",
+  "region": "Manisa Province 3,500 Trees",
+  "treeCount": 3500,
+  "place": "Manisa Province",
+  "desc": "Reducing the destructive effects of mining activity on the natural environment in the Aegean Region.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/ada12d9412107ea8f04c726ffbb47422ffd6dc4b-1100x550.jpg",
+  "story": "This afforestation project is located on minelands within the Manisa, Aegean Region of western Türkiye, where mining operations have caused significant deterioration to soil cover, ground and drinking water resources, wildlife habitats, and regional air quality. This tree planting project aims to reduce the destructive effects of mining activity on the natural environment and improve the quality of life for residents in the area. Additionally, the new trees will also help improve the quality of river and surface water collected in the Kül Dam as well as groundwater within and surrounding the planting site."
+ },
+ {
+  "continent": "Australia & Oceania",
+  "status": "Complete",
+  "title": "Central and Northern Victoria, Australia",
+  "region": "75,000 Trees",
+  "treeCount": 75000,
+  "desc": "Creating forested corridors to connect three area National Parks and provide healthier habitat for wildlife.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "Over the years, this area has faced a tremendous amount of deforestation due to various industries and rapid population growth. The result is very fragmented forestland that is struggling to support area wildlife. Replanting efforts will create forested corridors to connect three area National Parks, providing better habitat for animal species and a healthier ecosystem overall."
+ },
+ {
+  "continent": "Australia & Oceania",
+  "status": "Complete",
+  "title": "East Queensland, Australia",
+  "region": "200,000 Trees",
+  "treeCount": 200000,
+  "desc": "Protecting rare wildlife populations including turtle species, wallabies, kangaroos, wombats, and koalas, as well as water leading to the Great Barrier Reef.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/01489b32507e7790c11d5fec03f67741cc977c74-1100x550.jpg",
+  "story": "Many forested areas in Queensland, Australia have been cleared for surface mining and agricultural use. Our ongoing replanting efforts will help protect the area's rare wildlife populations, including turtle species, wallabies, kangaroos, wombats, and koalas, as well as water leading to the Great Barrier Reef.",
+  "gallery": {
+   "label": "Watch",
+   "items": [
+    {
+     "videoUrl": "https://www.youtube.com/embed/hSmaMkLG5e0"
+    }
+   ]
+  }
+ },
+ {
+  "continent": "Australia & Oceania",
+  "status": "Complete",
+  "title": "Auckland Council, New Zealand",
+  "region": "41,789 Trees",
+  "treeCount": 41789,
+  "desc": "Planting across four regional sites, Totara Park, Puhinui Reserve, Hoskin Reserve, and Hunua Domain, to help Auckland reach 30% tree canopy by 2050.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "Auckland, New Zealand has a goal to reach 30% tree canopy by 2050. As part of this goal, new trees are being planted across four different regional sites, Totara Park, Puhinui Reserve, Hoskin Reserve, and Hunua Domain, in 2022. These trees will create new, thriving forests for New Zealanders to enjoy. And they will provide countless benefits, including cleaner water, cleaner air, greater biodiversity, and carbon sequestration."
+ },
+ {
+  "continent": "Australia & Oceania",
+  "status": "Complete",
+  "title": "Te Uru Rakau, New Zealand",
+  "region": "Project Mahitahi 32,590 Trees",
+  "treeCount": 32590,
+  "place": "Project Mahitahi",
+  "desc": "Restoring the terrestrial ecosystem of New Zealand's Mahitahi/Maitai valley and supporting threatened species including the Nelson green gecko and Kakariki parrot.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "Project Mahitahi is a collaborative effort aimed at restoring the terrestrial ecosystem of New Zealand's Mahitahi/Maitahi/Maitai valley. The area has great cultural importance, as well as supports threatened species like the Nelson green gecko and Kakariki parrot. The new trees planted through this project will support wildlife, sequester carbon, improve water quality for the local community, and create dozens of jobs."
+ },
+ {
+  "continent": "Europe",
+  "status": "Complete",
+  "title": "France",
+  "region": "150,000 Trees",
+  "treeCount": 150000,
+  "desc": "Ensuring a resilient tree cover across France in partnership with ReforestAction.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "While France currently has the fourth-largest forested area in Europe, it is experiencing an annual decline of 80 million trees planted compared to the 1990s. This is a sign of aging and lack of renewal. In order to meet the challenges of climate change, natural disasters, and disease, reforestation is imperative. This project helped to ensure a resilient tree cover that provides a full range of ecological services."
+ },
+ {
+  "continent": "Europe",
+  "status": "Complete",
+  "title": "Ireland",
+  "region": "100,000 Trees",
+  "treeCount": 100000,
+  "desc": "Establishing tree cover and woodlands in rural and urban areas of the Republic of Ireland with Trees on the Land.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/5fb924755ead156cffd86d9f3dfdce4aa343be7a-1100x550.jpg",
+  "story": "Tree planting efforts throughout Ireland are helping to establish tree cover and woodland in both rural and urban areas. These newly planted forests will grow and provide valuable resources, ecosystem services, and a lasting legacy for future generations."
+ },
+ {
+  "continent": "Europe",
+  "status": "Complete",
+  "title": "Portugal",
+  "region": "10,000 Trees",
+  "treeCount": 10000,
+  "desc": "Restoring more than 30 sites affected by fire, deforestation, and invasive species through the Arbor Day Foundation's Free Trees for Portugal initiative.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/ada12d9412107ea8f04c726ffbb47422ffd6dc4b-1100x550.jpg",
+  "story": "Efforts in Portugal helped plant trees across the country through the 'Free Trees for Portugal' initiative. This project aimed to restore more than 30 sites affected by fire, deforestation, and invasive species back to their natural beauty. Areas benefiting from the work include Alentejo, Central Portugal, Lisbon, and Algarve."
+ },
+ {
+  "continent": "Europe",
+  "status": "Complete",
+  "title": "Spain",
+  "region": "Palencia 4,200 Trees",
+  "treeCount": 4200,
+  "place": "Palencia",
+  "desc": "Replanting in one of Europe's third-largest forest areas, where diseases, fires, and storms have taken a significant toll.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/038cd1b2d23c35f19763b214aa5390a87d28561c-1100x551.jpg",
+  "story": "Spanning 18.4 million hectares, the Spanish forest is the third largest forest area in Europe. Invaluable in every way, it is highly beneficial to its environment: preserving local biodiversity, filtering water, preventing soil erosion, and more. However, diseases, fires, and storms have taken a toll on Spanish forestland. Support is needed so replanting efforts can continue."
+ },
+ {
+  "continent": "Europe",
+  "status": "Complete",
+  "title": "United Kingdom",
+  "region": "Woodland Sites 50,000 Trees",
+  "treeCount": 50000,
+  "place": "Woodland Sites",
+  "desc": "Supporting private landowners to plant trees on barren sites in partnership with the Woodland Trust and Arbor Day Foundation.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "This project was designed to support private landowners interested in planting trees on barren sites in need of tree cover. The goal of this reforestation effort was to engage local landowners in the benefits of tree planting and agroforestry and create new woodland in one of the least-forested regions in Europe."
+ },
+ {
+  "continent": "Europe",
+  "status": "Complete",
+  "title": "United Kingdom",
+  "region": "Urban Sites 24,000 Trees",
+  "treeCount": 24000,
+  "place": "Urban Sites",
+  "desc": "Expanding urban tree canopy across cities throughout the United Kingdom, with local residents included in plantings where possible.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/5fb924755ead156cffd86d9f3dfdce4aa343be7a-1100x550.jpg",
+  "story": "Cities throughout the United Kingdom are looking for ways to expand their urban tree canopy. Planting efforts will focus on areas with the greatest need for trees, and local residents will be included in the tree plantings where possible. These new trees will help to not only green the cities in which they are planted but also improve the lives of those who live there."
+ },
+ {
+  "continent": "Europe",
+  "status": "Complete",
+  "title": "United Kingdom",
+  "region": "Mersey Forest 270,000 Trees",
+  "treeCount": 270000,
+  "place": "Mersey Forest",
+  "desc": "Fighting climate change and cleaning the region's air and water through one of England's 12 Community Forests.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/ada12d9412107ea8f04c726ffbb47422ffd6dc4b-1100x550.jpg",
+  "story": "The Mersey Forest is one of England's 12 Community Forests, which together form the country's largest environmental regeneration initiative. Tree planting efforts here will help fight climate change, clean the region's air and water, and ultimately create healthier communities."
+ },
+ {
+  "continent": "South America",
+  "status": "Complete",
+  "title": "Argentina, Bolivia, Chile, Ecuador, Peru",
+  "region": "Andes Mountains 300,000 Trees",
+  "treeCount": 300000,
+  "place": "Andes Mountains",
+  "desc": "Replanting native trees across the world's longest continental mountain range through the Accion Andina initiative to ensure long-term climate resilience and water security.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/047386c6ef5c930c2776abe6674fd34df8b2bea5-1100x550.jpg",
+  "story": "This large-scale restoration initiative in the Andes Mountains is focused on replanting an overlooked, yet critically important ecosystem within the world's longest continental mountain range. Native trees will be planted to ensure long-term climate resilience and water security for those who call this region home.",
+  "gallery": {
+   "label": "Watch",
+   "items": [
+    {
+     "videoUrl": "https://www.youtube.com/embed/SZF26K0zlDc"
+    }
+   ]
+  }
+ },
+ {
+  "continent": "South America",
+  "status": "Complete",
+  "title": "Brazil",
+  "region": "Amazon Rainforest 600,000 Trees",
+  "treeCount": 600000,
+  "place": "Amazon Rainforest",
+  "desc": "Restoring Indigenous lands in the Brazilian Amazon with local partner Forest Trends, providing food security and income for thousands of Indigenous people.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "In the face of deforestation and devastation, this project was dedicated to helping restore Indigenous lands in the Brazilian Amazon. Your support is providing food security and income alternatives for thousands of Indigenous people while contributing to conservation efforts and helping mitigate climate change."
+ },
+ {
+  "continent": "South America",
+  "status": "Complete",
+  "title": "Brazil",
+  "region": "Atlantic Forest 170,000 Trees",
+  "treeCount": 170000,
+  "place": "Atlantic Forest",
+  "desc": "Restoring a tropical landscape that has lost nearly 90% of its original footprint. Clean water for more than 100 million South Americans depends on it.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/5aca794500fb4982ee0c90b449a1d12183ed936c-1100x550.jpg",
+  "story": "The country's Atlantic Forest has faced centuries of degradation due to agriculture, illegal logging, and development. This tropical jungle has lost nearly 90% of its original footprint. Restoration of this tropical landscape will mean clean water for more than 100 million South Americans.",
+  "gallery": {
+   "label": "Watch",
+   "items": [
+    {
+     "videoUrl": "https://www.youtube.com/embed/_Ue0HlLTzaU"
+    }
+   ]
+  }
+ },
+ {
+  "continent": "South America",
+  "status": "Complete",
+  "title": "Colombia",
+  "region": "1,667 Trees",
+  "treeCount": 1667,
+  "desc": "A pilot project in the Suroeste Antioqueno region to scale planting operations and establish a long-term management plan for the Sembrando Futuro project.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "Partnering with local implementing partners, this pilot project seeks to scale planting operations and establish a long-term management plan for the larger Sembrando Futuro (Planting the Future) project. Located in the Suroeste Antioqueño (Southwest Antioquia) region and the Tropical Andes biodiversity hotspot in Colombia, this project aims to restore montane forest cover and connectivity between forests, leading to more wildlife habitat, increased biodiversity over time, and benefits for the local community including employment opportunities and improved access to safe drinking water."
+ },
+ {
+  "continent": "South America",
+  "status": "Complete",
+  "title": "Peru",
+  "region": "235,800 Trees",
+  "treeCount": 235800,
+  "desc": "Restoring deforested rain forest land and creating opportunities for shade-grown crops such as coffee and cocoa.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/3977c7f0c6ce1428efea9e035365c9f8a3159713-1100x733.jpg",
+  "story": "Peru's rain forest lands have faced large-scale deforestation due to inefficient agricultural practices. Tree planting efforts here will help to restore deforested land and create opportunities for shade-grown crops such as coffee and cocoa. Through this approach, the rain forest can remain intact and local farmers gain a sustainable source of income."
+ },
+ {
+  "continent": "Europe",
+  "status": "Complete",
+  "title": "Hungary",
+  "region": "Dömös 5,000 Trees",
+  "treeCount": 5000,
+  "place": "Dömös",
+  "desc": "Snow and ice have taken a toll on the lush forests of Dömös, Hungary. The landscape once covered in a sea of green now has large open spaces and uprooted trees.",
+  "image": "https://cdn.sanity.io/images/5l44tcs4/production/038cd1b2d23c35f19763b214aa5390a87d28561c-1100x551.jpg",
+  "story": "Snow and ice have taken a toll on the lush forests of Dömös, Hungary. The landscape once covered in a sea of green now has large open spaces and uprooted trees. Tree planting efforts are underway to help support natural regeneration and restore the tree canopy. A mix of hardwood trees will be planted to produce a forest more resilient and better adapted to a changing climate while also providing habitat for a wide range of wildlife."
+ }
+]
